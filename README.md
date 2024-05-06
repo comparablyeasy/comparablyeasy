@@ -1,16 +1,14 @@
-### Hi there 👋
+# Comparablyeasy
 
-<!--
-**comparablyeasy/comparablyeasy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tech I work with
 
-Here are some ideas to get you started:
+**Tech I work with**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- React, Next.js
+- Svelte + Kit
+- Tailwind CSS
+- Web3 libraries (Wagmi, ethers.js)
+- Go (for backend services)
+- SQL (database management)
+- Docker (for seamless deployment)
+- some experience with React Native for mobile development
