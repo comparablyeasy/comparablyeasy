@@ -1,8 +1,6 @@
-# Comparablyeasy
+# 水 Comparably Easy 炎
 
 ## Tech I work with
-
-**Tech I work with**
 
 - React, Next.js
 - Svelte + Kit
